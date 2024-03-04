@@ -1,0 +1,36 @@
+INFO:root:Contact view accessed.
+INFO:root:Output Format 2 view accessed.
+INFO:root:Output Format 1 view accessed.
+INFO:root:Output Format 2 view accessed.
+WARNING:django.request:Not Found: /home/
+WARNING:django.request:Not Found: /home/
+INFO:root:Output Format 2 view accessed.
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:Output Format 1 view accessed.
+INFO:root:Home view accessed.
+INFO:root:Home view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Output Format 2 view accessed.
+INFO:root:Output Format 1 view accessed.
+INFO:root:Home view accessed.
+WARNING:django.request:Not Found: /home/
+INFO:root:Home view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Home view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Contact view accessed.
+INFO:root:Home view accessed.
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:Contact view accessed.
+INFO:root:Home view accessed.
