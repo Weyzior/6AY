@@ -34,3 +34,6 @@ INFO:root:Home view accessed.
 WARNING:django.request:Not Found: /favicon.ico
 INFO:root:Contact view accessed.
 INFO:root:Home view accessed.
+INFO:root:Home view accessed.
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:Home view accessed.
